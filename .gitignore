@@ -1,0 +1,37 @@
+# Environment files
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Dependency management
+Pipfile.lock
+poetry.lock
+
+# MacOS
+.DS_Store
+
+# Deployment
+*.tar
+*.zip
+*.egg-info/
