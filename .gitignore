@@ -40,5 +40,5 @@ data/
 *.env
 .envrc
 # DVC-related files
-!.dvc/
-!.dvc/config
+data/*
+!data/*.dvc
