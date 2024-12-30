@@ -35,3 +35,9 @@ poetry.lock
 *.tar
 *.zip
 *.egg-info/
+data/
+# Configuration and environment files
+*.env
+.envrc
+# DVC-related files
+.dvc/
