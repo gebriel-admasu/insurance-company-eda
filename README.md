@@ -166,4 +166,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## **Contact**
 For questions or collaboration opportunities, please contact:
 - **Name:** Gebriel Admasu
-- **Email:** [Your Email Address]
+- **Email:** gabrieladmasu0@gmail.com
+
